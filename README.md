@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamsherif22" alt="hossamsherif22" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/HossamSherif22](https://github.com/HossamSherif22)
+- 👨‍💻 All of my projects are available at [https://github.com/HossamSherif22/projects](https://github.com/HossamSherif22/projects)
 
 - 📫 How to reach me **Hossam20099@gmail.com**
 
