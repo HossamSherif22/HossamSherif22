@@ -3,6 +3,12 @@
 
 ![what-is-data-science-1024x640](https://github.com/user-attachments/assets/70dabedc-a0fc-4902-a226-d7faa486efb6)
 
+
+
+![image](https://github.com/user-attachments/assets/73517444-3142-4360-a243-d2b701d30eaa)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamsherif22&label=Profile%20views&color=0e75b6&style=flat" alt="hossamsherif22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamsherif22" alt="hossamsherif22" /></a> </p>
