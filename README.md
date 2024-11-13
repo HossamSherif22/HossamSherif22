@@ -1,37 +1,144 @@
-<h1 align="center">Hi 👋, I'm Hossam sherif</h1>
-<h3 align="center">Data Scientist</h3>
+
+![ml-banner](https://github.com/user-attachments/assets/73123aba-ee54-4bb2-ac1f-24d5f2364f41)
+
+
+# 👋 Hello, I'm Hossam Sherif!
+
+**`Machine Learning Engineer | Data Scientist | AI Enthusiast`**
+
+Welcome to my GitHub! I'm Hossam, a dedicated **Machine Learning Engineer** and **Data Scientist** with over two years of experience in building, training, and deploying machine learning models. My passion lies in turning data into actionable insights and developing innovative AI solutions.
+
 
 ![what-is-data-science-1024x640](https://github.com/user-attachments/assets/70dabedc-a0fc-4902-a226-d7faa486efb6)
 
 
 
-![image](https://github.com/user-attachments/assets/73517444-3142-4360-a243-d2b701d30eaa)
+---
+
+
+## 🛠️ My Skill Set
+
+- **Programming Languages**: Python, SQL, PySpark
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-Learn, XGBoost, LightGBM
+- **Deep Learning**: TensorFlow, Keras, PyTorch
+- **Natural Language Processing (NLP)**: NLTK, SpaCy
+- **Big Data & Data Engineering**: PySpark, Apache Hadoop
+- **Tools & Technologies**: Git, Docker, Jupyter Notebooks
+
+---
+
+## 📚 Certifications & Learning
+
+I'm a continuous learner, always exploring new avenues in data science and machine learning. Some of my notable certifications include:
+
+- **DataCamp**: Machine Learning Scientist with Python
+- **CLS World**: Data Science Bootcamp
+- **Quantum University**: Advanced Deep Learning
+
+I'm currently diving deep into **Natural Language Processing (NLP)** and **Data Engineering** to expand my knowledge and skill set.
+
+---
+
+## 📊 Projects & Contributions
+
+I believe in learning by doing. Here are some of my key projects:
+
+### 1. **[Twitter Sentiment Analysis](https://github.com/yourusername/twitter-sentiment-analysis)**
+   - Built a sentiment analysis model using NLP techniques to classify tweets as positive, negative, or neutral.
+   - Leveraged libraries like NLTK and SpaCy for data preprocessing and feature extraction.
+   - Achieved an accuracy of 85% using a Logistic Regression model.
+
+### 2. **[Spotify Data Analysis using PySpark](https://github.com/yourusername/spotify-pyspark-project)**
+   - Analyzed Spotify's vast song dataset to discover trends in music popularity over the years.
+   - Used PySpark for data processing and Apache Hadoop for data storage.
+
+### 3. **[Customer Churn Prediction](https://github.com/yourusername/customer-churn)**
+   - Developed a machine learning model to predict customer churn for a telecom company.
+   - Implemented feature engineering and hyperparameter tuning, achieving an AUC score of 0.92.
+
+Feel free to explore my repositories to see more of my work!
+
+---
+
+## 💼 My Background
+
+Before diving into the world of data, I spent several years as a **Chief Accountant at Basata**, managing financial reports and analyzing data for business insights. However, my passion for numbers and problem-solving naturally led me to data science, where I can combine my analytical skills with technology to solve real-world challenges.
+
+- **Current Focus**: Deep Learning (CNNs, RNNs) and Data Engineering
+  
+---  
+
+## 🎯 Future Goals
+
+- Become a **Machine Learning Engineer**.
+- Contribute to impactful open-source projects and communities.
+
+---
+
+## 📈 GitHub Stats
+![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamSherif&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamSherif&layout=compact&theme=radical)
+
+---
+## 🚀 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🌟 Featured Repositories
+
+### [Twitter Sentiment Analysis](https://github.com/HossamSherif/twitter-sentiment-analysis)
+A sentiment analysis model using NLP to classify tweets as positive, negative, or neutral. Achieved 85% accuracy.
+
+### [Spotify Data Analysis using PySpark](https://github.com/HossamSherif/spotify-pyspark-project)
+Data analysis of Spotify songs dataset using PySpark to discover trends in music popularity.
+
+### [Customer Churn Prediction](https://github.com/HossamSherif/customer-churn)
+Predictive model for telecom customer churn with an AUC score of 0.92.
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- Advanced NLP Techniques with SpaCy and Hugging Face
+- Big Data Analysis using Apache Spark
+- Deep Learning Architectures (CNNs, LSTMs)
+- PowerBI
+- Tableue
+- SQL
+
+---
+## 🎮 Fun Facts & Hobbies
+
+- ⚽ Huge fan of Zamalek SC ⚽
+- 🎸 Love playing Soccer and exploring new music genres
+- 🌍 Passionate about traveling 
+
+---
+## 📝 Latest Blog Posts
+
+- [Building an End-to-End NLP Pipeline](https://medium.com/@hossamsherif/nlp-pipeline)
+- [Understanding Convolutional Neural Networks](https://medium.com/@hossamsherif/cnn-guide)
+- [5 Tips for Data Scientists Starting with PySpark](https://medium.com/@hossamsherif/pyspark-tips)
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: Hossam20099@gmail.com
+- 💼 LinkedIn: [Hossam Sherif](www.linkedin.com/in/hossam-sherif-66b53bb5)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=HossamSherif&color=blueviolet)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamsherif22&label=Profile%20views&color=0e75b6&style=flat" alt="hossamsherif22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamsherif22" alt="hossamsherif22" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/HossamSherif22/projects](https://github.com/HossamSherif22/projects)
-
-- 📫 How to reach me **Hossam20099@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/hossam-sherif-66b53bb5](www.linkedin.com/in/hossam-sherif-66b53bb5)
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossamsherif22&show_icons=true&locale=en&layout=compact" alt="hossamsherif22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossamsherif22&show_icons=true&locale=en" alt="hossamsherif22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossamsherif22&" alt="hossamsherif22" /></p>
+Thank you for visiting my profile! 🌟
