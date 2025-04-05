@@ -33,8 +33,6 @@ I'm a continuous learner, always exploring new avenues in data science and machi
 - **CLS World**: Data Science Bootcamp
 - **Quantum University**: Advanced Deep Learning
 
-I'm currently diving deep into **Natural Language Processing (NLP)** and **Data Engineering** to expand my knowledge and skill set.
-
 ---
 
 ## 📊 Projects & Contributions
@@ -65,10 +63,13 @@ Feel free to explore my repositories to see more of my work!
 ---
 
 ## 📈 GitHub Stats
+
 ![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamSherif&show_icons=true&theme=radical)
-![Top Languages][(![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 💻 Top Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 ## 🚀 Technologies & Tools
@@ -93,18 +94,12 @@ Feel free to explore my repositories to see more of my work!
 - SQL
 
 ---
+
 ## 🎮 Fun Facts & Hobbies
 
 - ⚽ Huge fan of Zamalek SC ⚽
 - 🎸 Love playing Soccer and exploring new music genres
 - 🌍 Passionate about traveling 
-
----
-## 📝 Latest Blog Posts
-
-- [Building an End-to-End NLP Pipeline](https://medium.com/@hossamsherif/nlp-pipeline)
-- [Understanding Convolutional Neural Networks](https://medium.com/@hossamsherif/cnn-guide)
-- [5 Tips for Data Scientists Starting with PySpark](https://medium.com/@hossamsherif/pyspark-tips)
 
 ---
 
