@@ -1,10 +1,7 @@
 
-![ml-banner](https://github.com/user-attachments/assets/73123aba-ee54-4bb2-ac1f-24d5f2364f41)
-
-
 # 👋 Hello, I'm Hossam Sherif!
 
-**`Machine Learning Engineer | Data Scientist | AI Enthusiast`**
+**`Machine Learning Scientist | Data Scientist | AI Enthusiast`**
 
 Welcome to my GitHub! I'm Hossam, a dedicated **Machine Learning Engineer** and **Data Scientist** with over two years of experience in building, training, and deploying machine learning models. My passion lies in turning data into actionable insights and developing innovative AI solutions.
 
@@ -59,15 +56,6 @@ I believe in learning by doing. Here are some of my key projects:
 
 Feel free to explore my repositories to see more of my work!
 
----
-
-## 💼 My Background
-
-Before diving into the world of data, I spent several years as a **Chief Accountant at Basata**, managing financial reports and analyzing data for business insights. However, my passion for numbers and problem-solving naturally led me to data science, where I can combine my analytical skills with technology to solve real-world challenges.
-
-- **Current Focus**: Deep Learning (CNNs, RNNs) and Data Engineering
-  
----  
 
 ## 🎯 Future Goals
 
@@ -78,8 +66,9 @@ Before diving into the world of data, I spent several years as a **Chief Account
 
 ## 📈 GitHub Stats
 ![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamSherif&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamSherif&layout=compact&theme=radical)
+![Top Languages][(![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 
 ---
 ## 🚀 Technologies & Tools
@@ -89,25 +78,14 @@ Before diving into the world of data, I spent several years as a **Chief Account
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🌟 Featured Repositories
-
-### [Twitter Sentiment Analysis](https://github.com/HossamSherif/twitter-sentiment-analysis)
-A sentiment analysis model using NLP to classify tweets as positive, negative, or neutral. Achieved 85% accuracy.
-
-### [Spotify Data Analysis using PySpark](https://github.com/HossamSherif/spotify-pyspark-project)
-Data analysis of Spotify songs dataset using PySpark to discover trends in music popularity.
-
-### [Customer Churn Prediction](https://github.com/HossamSherif/customer-churn)
-Predictive model for telecom customer churn with an AUC score of 0.92.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced NLP Techniques with SpaCy and Hugging Face
 - Big Data Analysis using Apache Spark
 - Deep Learning Architectures (CNNs, LSTMs)
 - PowerBI
