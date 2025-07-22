@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Hossam Sherif!
 
-**`Machine Learning Scientist | Data Scientist | AI Enthusiast`**
+**`Machine Learning Scientist | Data Scientist | Data analysis`**
 
 Welcome to my GitHub! I'm Hossam, a dedicated **Machine Learning Engineer** and **Data Scientist** with over two years of experience in building, training, and deploying machine learning models. My passion lies in turning data into actionable insights and developing innovative AI solutions.
 
