@@ -32,16 +32,10 @@ I am a **Data Analyst / Junior Data Scientist** passionate about uncovering insi
 - Create dashboards and reports for stakeholders  
 - Communicate insights effectively to drive decisions  
 
----
-
-## 🚀 Featured Projects  
-- 📂 **[Tuberculosis Detection (CSV-based ML Model)](https://github.com/HossamSherif22/tuberculosis-detection)**  
-- 📂 **[Mobile Price Prediction](https://github.com/HossamSherif22/mobiles-dataset)**  
-- 📂 **[Exploratory Data Analysis Projects](https://github.com/HossamSherif22/EDA-projects)**  
 
 ---
 
 ## 📫 Connect With Me  
 - 📧 **Email:** Hossam20099@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/hossam-sherif-66b53bb5/))  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hossam-sherif
 - 🐙 **GitHub:** [github.com/HossamSherif22](https://github.com/HossamSherif22)  
