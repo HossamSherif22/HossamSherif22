@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Hossam Sherif  
 
 ## 📊 About Me  
-I am a **Data Analyst / Junior Data Scientist** passionate about uncovering insights from data and transforming them into actionable strategies. With a background in **Accounting** and certifications in **Data Analysis & Machine Learning**, I bring both business understanding and technical expertise.  
+I am a **Data Analyst / Junior Machine Learning** passionate about uncovering insights from data and transforming them into actionable strategies. 
+certifications in **Data Analysis & Machine Learning**, I bring both business understanding and technical expertise.  
 
 - 🔎 Experienced in **data cleaning, EDA, and statistical analysis**  
 - 📈 Skilled at building dashboards and visualizations for decision-making  
